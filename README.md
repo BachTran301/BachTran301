@@ -23,19 +23,19 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bachtran301&show_icons=true&count_private=true&theme=vue" alt="bachtran301" />
+  <img src="https://github-readme-stats.vercel.app/api?username=puticool&show_icons=true&count_private=true&theme=vue" alt="puticool" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bachtran301&&theme=vue" alt="bachtran301" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=puticool&&theme=vue" alt="puticool" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bachtran301&show_icons=true&locale=en&layout=compact&theme=vue" alt="bachtran301" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=puticool&show_icons=true&locale=en&layout=compact&theme=vue" alt="puticool" />
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=bachtran301&label=Profile%20views&color=brightgreen" alt="bachtran301" />
+  <img src="https://komarev.com/ghpvc/?username=puticool&label=Profile%20views&color=brightgreen" alt="puticool" />
 </div>
