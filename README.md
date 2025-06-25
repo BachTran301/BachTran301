@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Puticool</h1>
+<h1 align="center">Hi 👋, I'm Bach Tran</h1>
 
 <div align="center">
   <img height="200" src="https://i.imgur.com/4ASafy0.png"  />
