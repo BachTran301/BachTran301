@@ -16,7 +16,7 @@
 
 ## 🛠️Languages and Tools
 
-<img align="center" src="https://skillicons.dev/icons?i=html,css,pug,java,js,nodejs,python,django,postman,discord,mongodb,git,github&theme=dark"/>
+<img align="center" src="https://skillicons.dev/icons?i=html,css,tailwind,pug,react,java,js,nodejs,python,tensorflow,django,postman,discord,mongodb,git,github,php,laravel,ts,flutter,vite&theme=dark"/>
 
 ---
 
@@ -24,10 +24,6 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=BachTran301&show_icons=true&count_private=true&theme=vue" alt="BachTran301" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BachTran301&&theme=vue" alt="BachTran301" />
 </div>
 
 <div align="center">
